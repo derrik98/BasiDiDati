@@ -1,0 +1,26 @@
+{
+	"login":[
+		{
+		"host": "localhost",
+		"username": "login",
+		"password": "Login!00",
+		"port": "3306",
+		"database": "sistemaAsteOnline"
+		}],
+	"admin":[
+		{
+		"host": "localhost",
+		"username": "utenteamm",
+		"password": "Utenteamm!0",
+		"port": "3306",
+		"database": "sistemaAsteOnline"
+		}],
+	"standard":[
+		{
+		"host": "localhost",
+		"username": "utentebase",
+		"password": "Utentebase!0",
+		"port": "3306",
+		"database": "sistemaAsteOnline"
+		}]
+}
